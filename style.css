@@ -1,0 +1,18 @@
+header{background-color: #e40066;}
+#Sobre-mim{background-color: #fb4d3d;}
+#Interesses{background-color: #03cea4; font-family: 'Times New Roman', Times, sans-serif;}
+#Contato{background-color: #345995;}
+p{font-family: 'Times New Roman', Times, sans-serif;
+font-size: 16px;
+font-weight: bold;
+text-align: justify;}
+footer{background-color: #eac435;text-align: center;padding: 15px;font-size: 0.9;}
+#perfil-img{width:300px;height:auto; border-radius: 50%;object-fit: cover;display: block;margin:20px auto;border: 5px solid #eac435;}
+body{font-family: 'Times New Roman', Times, sans-serif;background-color:white;}
+#Contato a{color: #eac435; transition:color 0.3 ease;}
+#Contato a:hover{color: #e40066;}
+footer a{color: #e40066;}
+footer a:hover{color:#345995;}
+h1{text-align: center;}
+h2{text-align: center;}
+#paragrafo{text-align: center;}
