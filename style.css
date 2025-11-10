@@ -6,10 +6,10 @@ p{font-family: 'Times New Roman', Times, sans-serif;
 font-size: 16px;
 font-weight: bold;
 text-align: justify;}
-footer{background-color: #eac435;text-align: center;padding: 15px;font-size: 0.9;}
+footer{background-color: #eac435;text-align: center;padding: 15px;font-size: 0.9rem;}
 #perfil-img{width:300px;height:auto; border-radius: 50%;object-fit: cover;display: block;margin:20px auto;border: 5px solid #eac435;}
 body{font-family: 'Times New Roman', Times, sans-serif;background-color:white;}
-#Contato a{color: #eac435; transition:color 0.3 ease;}
+#Contato a{color: #eac435; transition:color 0.3s ease;}
 #Contato a:hover{color: #e40066;}
 footer a{color: #e40066;}
 footer a:hover{color:#345995;}
